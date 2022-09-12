@@ -1,0 +1,12 @@
+# schema.yml
+
+version: 2
+
+sources:
+    - name: staging
+      database: rich-agency-351212
+      schema: ny_taxi
+
+      tables:
+          - name: green_tripdata_partitioned
+          - name: yellow_tripdata_partitioned
