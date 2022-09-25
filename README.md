@@ -9,3 +9,5 @@ STEP 3: We will now use Airflow to automate the creation of BigQuery(our Data Wa
 
 
 STEP 4: Transforming our data with DBT. The details of this step can be found [Here](https://github.com/ziritrion/dataeng-zoomcamp/blob/main/notes/4_analytics.md#introduction-to-analytics-engineering)
+
+![image](https://user-images.githubusercontent.com/64735216/192162131-45a8965f-8c71-4a8b-8e73-3c0fc19d25b9.png)
