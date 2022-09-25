@@ -1,4 +1,5 @@
-# dbt_project
+# Analytics Engineering Project
+
 STEP 1: Set-up GCP Infrastructure with Terraform. Kindly check the process via [cloud set-up](https://github.com/ziritrion/dataeng-zoomcamp/blob/main/notes/1_intro.md#terraform-and-google-cloud-platform).
 
 
