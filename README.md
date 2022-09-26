@@ -1,4 +1,4 @@
-# Analytics Engineering Project on NYC TaxiTrips Data
+# Analytics Engineering Project on NYC Taxi Data
 
 Dataset used in this project can be found here https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
