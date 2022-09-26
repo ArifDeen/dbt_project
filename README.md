@@ -1,4 +1,6 @@
-# Analytics Engineering Project
+# Analytics Engineering Project on NYC TaxiTrips Data
+
+Dataset used in this project can be found here https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 STEP 1: Set-up GCP Infrastructure with Terraform. Kindly check the process via [cloud set-up](https://github.com/ziritrion/dataeng-zoomcamp/blob/main/notes/1_intro.md#terraform-and-google-cloud-platform).
 
